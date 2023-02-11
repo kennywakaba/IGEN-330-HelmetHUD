@@ -1,0 +1,40 @@
+Change Component Footprint: Designator=R? Old Footprint=0805 New Footprint=0603
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Component: Designator=S(SW SLIDE SMALL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "JS102011SAQN SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "JS102011SAQN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SW SLIDE SMALL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/JS102011SAQN/C%26K/view-part/214325/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "JS102011SAQN SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/c-k/JS102011SAQN/1640095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD1_A
+Added Pin To Net: NetName=V_BAT_IN Pin=S-3
+Added Net: Name=V_BAT_IN
+Added Pin To Net: NetName=V_BAT Pin=S-2
+Added Pin To Net: NetName=V_BAT Pin=U2-30
+Added Net: Name=V_BAT
+Added Member To Class: ClassName=root Member=Component C1 10uF
+Added Member To Class: ClassName=root Member=Component C2 0.10uF
+Added Member To Class: ClassName=root Member=Component C4 22pF
+Added Member To Class: ClassName=root Member=Component C5 22pF
+Added Member To Class: ClassName=root Member=Component R2 1.1k
+Added Member To Class: ClassName=root Member=Component S SW SLIDE SMALL
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
+Added Member To Class: ClassName=root Member=Component U1 TJA1050
+Added Room: Name=root

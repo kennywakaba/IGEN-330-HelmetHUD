@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=CAN_TX Pin=-1
+Added Pin To Net: NetName=CAN_RX Pin=-2
+Added Pin To Net: NetName=OSC2 Pin=-7
+Added Pin To Net: NetName=OSC1 Pin=-8
+Added Pin To Net: NetName=GND Pin=-9
+Added Pin To Net: NetName=SCLK Pin=-13
+Added Pin To Net: NetName=MOSI Pin=-14
+Added Pin To Net: NetName=MISO Pin=-15
+Added Pin To Net: NetName=CS Pin=-16
+Added Pin To Net: NetName=RESET Pin=-17
+Added Pin To Net: NetName=VCC Pin=-18
+Added Member To Class: ClassName=root Member=Component C? 10uF
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component C? 0.10uF
+Added Member To Class: ClassName=root Member=Component R? 10k
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
+Added Member To Class: ClassName=root Member=Component U? TJA1050
+Added Room: Name=root

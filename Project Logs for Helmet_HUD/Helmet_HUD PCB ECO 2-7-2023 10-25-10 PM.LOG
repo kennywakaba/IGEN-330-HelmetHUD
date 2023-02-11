@@ -1,0 +1,66 @@
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 22pF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 22pF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL_HC49P488W46L1150T500H350)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABL-8.000MHZ-B2/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABL-8.000MHZ-B2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC-49/US ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABL-8.000MHZ-B2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABL-8.000MHZ-B2/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Pin To Net: NetName=CAN_RX Pin=-2
+Added Pin To Net: NetName=CAN_RX Pin=U?-4
+Added Net: Name=CAN_RX
+Added Pin To Net: NetName=CAN_TX Pin=-1
+Added Pin To Net: NetName=CAN_TX Pin=U?-1
+Added Net: Name=CAN_TX
+Added Pin To Net: NetName=CANH Pin=U?-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=U?-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=CS Pin=-18
+Added Pin To Net: NetName=CS Pin=U?-8
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=-10
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=-17
+Added Pin To Net: NetName=MISO Pin=U?-10
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=-16
+Added Pin To Net: NetName=MOSI Pin=U?-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=OSC1 Pin=-9
+Added Pin To Net: NetName=OSC1 Pin=C?-2
+Added Pin To Net: NetName=OSC1 Pin=Y?-2
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=-8
+Added Pin To Net: NetName=OSC2 Pin=C?-2
+Added Pin To Net: NetName=OSC2 Pin=Y?-1
+Added Net: Name=OSC2
+Added Pin To Net: NetName=SCLK Pin=-14
+Added Pin To Net: NetName=SCLK Pin=U?-9
+Added Net: Name=SCLK
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component R? 10k
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/ST
+Added Member To Class: ClassName=root Member=Component U? TJA1050
+Added Member To Class: ClassName=root Member=Component U? ESP32-DEVKIT-V1
+Added Member To Class: ClassName=root Member=Component Y? ABL-8.000MHZ-B2

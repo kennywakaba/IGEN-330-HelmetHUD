@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=R? Old Footprint=0805 New Footprint=0603
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD1_A
+Added Member To Class: ClassName=root Member=Component C1 10uF
+Added Member To Class: ClassName=root Member=Component C2 0.10uF
+Added Member To Class: ClassName=root Member=Component C3 0.10uF
+Added Member To Class: ClassName=root Member=Component C5 22pF
+Added Member To Class: ClassName=root Member=Component R2 1.1k
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
+Added Member To Class: ClassName=root Member=Component U1 TJA1050
+Added Room: Name=root

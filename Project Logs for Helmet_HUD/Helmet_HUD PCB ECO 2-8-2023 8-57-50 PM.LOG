@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=OSC1 Pin=C?-2
+Removed Pin From Net: NetName=OSC2 Pin=C?-2
+Change Component Footprint: Designator=C? Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C? Old Footprint=0603 New Footprint=0805
+Change Component Comment : Designator=C? Old Comment=22pF New Comment=0.10uF
+Change Component Comment : Designator=C? Old Comment=22pF New Comment=0.10uF
+Change component parameters: Designator = "C?" ("C?"); Footprint = "0603"; UniqueID = "\NUSLUQYC" ("\NUSLUQYC")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GMK107B7104KAHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 2"; Value = "GMK212BJ104KGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP 0.10uF 35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "587-3354-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "587-3364-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "0603"; UniqueID = "\PPBDEGFU" ("\PPBDEGFU")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GMK107B7104KAHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 2"; Value = "GMK212BJ104KGHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP 0.10uF 35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "587-3354-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "587-3364-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 22pF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(1206)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 10uF 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 22pF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 1.1k 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OSC1 Pin=C?-2
+Added Pin To Net: NetName=OSC2 Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Member To Class: ClassName=root Member=Component C? 0.10uF
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component C? 10uF
+Added Member To Class: ClassName=root Member=Component C? 22pF
+Added Member To Class: ClassName=root Member=Component R? 1.1k
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/ST
+Added Member To Class: ClassName=root Member=Component U? TJA1050
+Added Room: Name=root
