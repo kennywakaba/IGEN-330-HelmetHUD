@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=root Member=*
+Removed Member From Class: ClassName=root Member=NT?
+Added Component: Designator=TP1(TP380X203)
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2010 Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point - 5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP380X203)
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2010 Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point - 5019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_BAT Pin=TP1-1
+Added Pin To Net: NetName=VCC Pin=TP2-1
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
+Added Member To Class: ClassName=root Member=Component TP1 Test Point - 5019
+Added Member To Class: ClassName=root Member=Component TP2 Test Point - 5019
