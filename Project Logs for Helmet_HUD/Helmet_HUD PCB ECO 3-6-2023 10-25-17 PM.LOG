@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=D1-C
+Change Component Footprint: Designator=D1 Old Footprint=LED_7012X1 New Footprint=0603
+Change Component Comment : Designator=R2 Old Comment=1.1k New Comment=100
+Change Component Comment : Designator=D1 Old Comment=7012X1 New Comment=LTST-C191KGKT
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_7012X1"; UniqueID = "\XMPSLREE" ("\XMPSLREE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Lite-On Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LTST-C191KGKT/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\HROAKAGM" ("\HROAKAGM")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73B1JRTTD101J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 100.0 1/8W - 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73B1JRTTD101JCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT100RCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73B1JRTTD101J/12156165?s=N4IgTCBcDaIEoGkDsBmAQgRgFJwCq4BEMAGbAYVxAF0BfIA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT100R/1757756?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNNOJfEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=D2(0603)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LTST-C191KGKT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(0603)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LTST-C191KGKT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LTST-C191KGKT/Lite-On+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73B1JRTTD101J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 100.0 1/8W - 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73B1JRTTD101JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73B1JRTTD101J/12156165?s=N4IgTCBcDaIEoGkDsBmAQgRgFJwCq4BEMAGbAYVxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT100R/1757756?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNNOJfEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73B1JRTTD101J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 100.0 1/8W - 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73B1JRTTD101JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73B1JRTTD101J/12156165?s=N4IgTCBcDaIEoGkDsBmAQgRgFJwCq4BEMAGbAYVxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT100R/1757756?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNNOJfEAXQF8g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=ERROR_LED Pin=R4-2
+Added Pin To Net: NetName=ERROR_LED Pin=U2-28
+Added Net: Name=ERROR_LED
+Added Pin To Net: NetName=FAULT_LED Pin=R3-2
+Added Pin To Net: NetName=FAULT_LED Pin=U2-27
+Added Net: Name=FAULT_LED
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=root Member=Component D2 LTST-C191KGKT
+Added Member To Class: ClassName=root Member=Component D3 LTST-C191KGKT
+Added Member To Class: ClassName=root Member=Component R3 100
+Added Member To Class: ClassName=root Member=Component R4 100
+Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
