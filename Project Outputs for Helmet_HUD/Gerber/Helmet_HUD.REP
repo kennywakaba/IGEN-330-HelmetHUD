@@ -1,0 +1,564 @@
+*************************************************************
+FileName = Helmet_HUD.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : Helmet_HUD.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Helmet_HUD.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Helmet_HUD.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Helmet_HUD.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Helmet_HUD.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Helmet_HUD.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : GND_2
+      File : Helmet_HUD.GP2
+
+    Adding Layer      : GND_2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Helmet_HUD.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : GND_1
+      File : Helmet_HUD.GP1
+
+    Adding Layer      : GND_1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Helmet_HUD.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Helmet_HUD.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D26
+    D27
+    D28
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Helmet_HUD.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Helmet_HUD.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Helmet_HUD.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D31
+    D32
+    D33
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Helmet_HUD.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Helmet_HUD.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Helmet_HUD.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Helmet_HUD.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D57
+*************************************************************
+

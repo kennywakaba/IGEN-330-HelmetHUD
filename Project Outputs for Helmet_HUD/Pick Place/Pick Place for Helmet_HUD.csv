@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Helmet_HUD\Project Outputs for Helmet_HUD\Pick Place\Pick Place for Helmet_HUD.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/03/23
+Time:       20:18
+Revision:   6d77310f5f9de4b3fea8c20bd984e5d22bde2043
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"TP5","Test Point - 5019","BottomLayer","TP380X203","1560.000","-595.000","270","PC Test Point, Miniature Phosphor Bronze, Silver Plating Surface Mount Mounting Type"
+"TP4","Test Point - 5019","BottomLayer","TP380X203","1560.000","-345.000","270","PC Test Point, Miniature Phosphor Bronze, Silver Plating Surface Mount Mounting Type"
+"TP3","Test Point - 5019","TopLayer","TP380X203","1105.000","-2340.000","90","PC Test Point, Miniature Phosphor Bronze, Silver Plating Surface Mount Mounting Type"
+"TP2","Test Point - 5019","TopLayer","TP380X203","970.000","-2340.000","90","PC Test Point, Miniature Phosphor Bronze, Silver Plating Surface Mount Mounting Type"
+"TP1","Test Point - 5019","TopLayer","TP380X203","835.000","-2340.000","90","PC Test Point, Miniature Phosphor Bronze, Silver Plating Surface Mount Mounting Type"
+"U2","ESP32-DEVKIT-V1","TopLayer","MODULE_ESP32_DEVKIT_V1","915.000","-1134.173","0","Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz"
+"R1","10k","BottomLayer","0603","508.228","-841.969","90","RES SMD 10K OHM 1% 1/8W 0603"
+"U1","TJA1050","BottomLayer","SOP8","857.611","-665.969","270","1/1 Transceiver Half CANbus 8-SO"
+"C3","0.10uF","BottomLayer","0805","1180.000","-727.000","90","CAP CER 0.10UF 35V X7R 0805"
+"C2","0.10uF","BottomLayer","0805","683.228","-296.969","270","CAP CER 0.10UF 35V X7R 0805"
+"Y1","ABL-8.000MHZ-B2","BottomLayer","XTAL_HC49P488W46L1150T500H350","1133.228","-1156.968","90","HC/49US (AT49) MICROPROCESSOR CRYSTAL"
+"C5","22pF","BottomLayer","0805","1293.228","-1081.968","90","Default Symbol for Capacitors"
+"C1","10uF","BottomLayer","1206","568.228","-275.819","270","Default Symbol for Capacitors"
+"C4","22pF","BottomLayer","0805","1293.228","-1231.968","270","Default Symbol for Capacitors"
+"R2","100","TopLayer","0603","278.031","-1097.586","360","Default Resistor Symbol"
+"U3","MCP2515-I/SO","BottomLayer","SOIC127P1030X265-18N","783.202","-1020.969","180","CANbus Controller CAN 2.0 SPI Interface 18-SOIC"
+"D2","LTST-C191KGKT","TopLayer","0603","152.704","-1589.712","0","Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)"
+"D3","LTST-C191KGKT","TopLayer","0603","152.632","-2081.838","0","Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)"
+"R3","100","TopLayer","0603","288.858","-1589.803","0","Default Resistor Symbol"
+"R4","100","TopLayer","0603","288.858","-2081.838","0","Default Resistor Symbol"
+"D1","LTST-C191KGKT","TopLayer","0603","152.528","-1097.586","0","Green 571nm LED Indication - Discrete 2V 0603 (1608 Metric)"

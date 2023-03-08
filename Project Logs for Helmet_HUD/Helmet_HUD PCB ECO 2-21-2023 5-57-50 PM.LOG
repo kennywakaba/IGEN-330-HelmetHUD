@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=V_BAT Pin=S-2
-Added Pin To Net: NetName=VCC Pin=S-2
-Added Pin To Net: NetName=V_BAT Pin=S-3
-Added Member To Class: ClassName=root Member=Component  MCP2515-I/SO
-Added Room: Name=root
